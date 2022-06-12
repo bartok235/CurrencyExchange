@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KantorWalut</string>
+    <string name="promote">Promuj na admina</string>
+    <string name="remove">Usuń</string>
+    <string name="wstecz">Wstecz</string>
+</resources>
